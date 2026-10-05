@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "pavaman-react-native",
-    "slug": "pavaman-react-native",
+    "name": "field-tracker-mobile",
+    "slug": "field-tracker-mobile",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
